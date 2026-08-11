@@ -47,11 +47,6 @@
     <div id="empty" class="empty hidden">該当キャラなし</div>
   </main>
 
-  <nav class="bottom-actions">
-    <button id="markAllOwned">表示中を全所持</button>
-    <button id="markAllUnowned">表示中を全未所持</button>
-  </nav>
-
   <div id="sheetBackdrop" class="backdrop hidden"></div>
   <section id="groupSheet" class="sheet hidden" aria-modal="true" role="dialog">
     <div class="sheet-handle"></div>
@@ -66,7 +61,6 @@
       <p class="muted">所持状況はこの端末に自動保存されます。</p>
       <button id="backupBtn" class="wide primary">バックアップを書き出す</button>
       <label class="wide file-label">バックアップから復元<input id="restoreInput" type="file" accept="application/json,.json"></label>
-      <button id="resetBtn" class="wide danger">所持状況を全リセット</button>
       <hr>
       <div class="info-list">
         <div><span>アプリ版</span><b id="appVersion"></b></div>
