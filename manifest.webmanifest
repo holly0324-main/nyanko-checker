@@ -1,0 +1,23 @@
+{
+  "name": "にゃんこ超激レア所持チェッカー",
+  "short_name": "にゃんこ所持",
+  "description": "非コラボ超激レアの所持状況を画像でチェック",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0d0f13",
+  "theme_color": "#111318",
+  "lang": "ja",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
