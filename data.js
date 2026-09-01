@@ -1,1 +1,2000 @@
-window.NYANKO_DATA = {"version":"2.0.1","snapshot":"2026-08-11","source":"battlecats-db.com","characters":[{"id":"035","name":"ネコルガ","image":"https://battlecats-db.imgs-server.com/u035-1.png","groups":["lugas"],"search":"035 ネコルガ"},{"id":"043","name":"ネコアイス","image":"https://battlecats-db.imgs-server.com/u043-1.png","groups":["dynamites"],"search":"043 ネコアイス"},{"id":"044","name":"ネコマシン","image":"https://battlecats-db.imgs-server.com/u044-1.png","groups":["dynamites"],"search":"044 ネコマシン"},{"id":"045","name":"鬼にゃんま","image":"https://battlecats-db.imgs-server.com/u045-1.png","groups":["dynamites"],"search":"045 鬼にゃんま"},{"id":"058","name":"ネコシュバリエ","image":"https://battlecats-db.imgs-server.com/u058-1.png","groups":["dynamites"],"search":"058 ネコシュバリエ"},{"id":"060","name":"ねこベビー","image":"https://battlecats-db.imgs-server.com/u060-1.png","groups":["dynamites"],"search":"060 ねこベビー"},{"id":"072","name":"真田幸村","image":"https://battlecats-db.imgs-server.com/u072-1.png","groups":["basaras"],"search":"072 真田幸村"},{"id":"073","name":"前田慶次","image":"https://battlecats-db.imgs-server.com/u073-1.png","groups":["basaras"],"search":"073 前田慶次"},{"id":"074","name":"織田信長","image":"https://battlecats-db.imgs-server.com/u074-1.png","groups":["basaras"],"search":"074 織田信長"},{"id":"076","name":"風神のウィンディ","image":"https://battlecats-db.imgs-server.com/u076-1.png","groups":["galaxy"],"search":"076 風神のウィンディ"},{"id":"077","name":"雷神のサンディア","image":"https://battlecats-db.imgs-server.com/u077-1.png","groups":["galaxy"],"search":"077 雷神のサンディア"},{"id":"084","name":"地龍ソドム","image":"https://battlecats-db.imgs-server.com/u084-1.png","groups":["dragons"],"search":"084 地龍ソドム"},{"id":"085","name":"聖龍メギドラ","image":"https://battlecats-db.imgs-server.com/u085-1.png","groups":["dragons"],"search":"085 聖龍メギドラ"},{"id":"086","name":"竜騎士バルス","image":"https://battlecats-db.imgs-server.com/u086-1.png","groups":["dragons"],"search":"086 竜騎士バルス"},{"id":"087","name":"神龍かむくら","image":"https://battlecats-db.imgs-server.com/u087-1.png","groups":["dragons"],"search":"087 神龍かむくら"},{"id":"088","name":"竜戦機ライデン","image":"https://battlecats-db.imgs-server.com/u088-1.png","groups":["dragons"],"search":"088 竜戦機ライデン"},{"id":"106","name":"猿帝のクウ","image":"https://battlecats-db.imgs-server.com/u106-1.png","groups":["galaxy"],"search":"106 猿帝のクウ"},{"id":"107","name":"召し豚のカイ","image":"https://battlecats-db.imgs-server.com/u107-1.png","groups":["galaxy"],"search":"107 召し豚のカイ"},{"id":"108","name":"宝杖のカッパーマイン","image":"https://battlecats-db.imgs-server.com/u108-1.png","groups":["galaxy"],"search":"108 宝杖のカッパーマイン"},{"id":"125","name":"伊達政宗","image":"https://battlecats-db.imgs-server.com/u125-1.png","groups":["basaras"],"search":"125 伊達政宗"},{"id":"126","name":"武田信玄","image":"https://battlecats-db.imgs-server.com/u126-1.png","groups":["basaras"],"search":"126 武田信玄"},{"id":"135","name":"うらしまタロウ","image":"https://battlecats-db.imgs-server.com/u135-1.png","groups":["souls"],"search":"135 うらしまタロウ"},{"id":"136","name":"ツルの恩返し","image":"https://battlecats-db.imgs-server.com/u136-1.png","groups":["souls"],"search":"136 ツルの恩返し"},{"id":"137","name":"ももたろう","image":"https://battlecats-db.imgs-server.com/u137-1.png","groups":["souls"],"search":"137 ももたろう"},{"id":"138","name":"かさじぞう","image":"https://battlecats-db.imgs-server.com/u138-1.png","groups":["souls"],"search":"138 かさじぞう"},{"id":"139","name":"かぐやひめ","image":"https://battlecats-db.imgs-server.com/u139-1.png","groups":["souls","valentine"],"search":"139 かぐやひめ"},{"id":"144","name":"ねこナース","image":"https://battlecats-db.imgs-server.com/u144-1.png","groups":["dynamites","valentine"],"search":"144 ねこナース"},{"id":"159","name":"上杉謙信","image":"https://battlecats-db.imgs-server.com/u159-1.png","groups":["basaras"],"search":"159 上杉謙信"},{"id":"160","name":"冥界のカリファ","image":"https://battlecats-db.imgs-server.com/u160-1.png","groups":["galaxy"],"search":"160 冥界のカリファ"},{"id":"169","name":"アシルガ","image":"https://battlecats-db.imgs-server.com/u169-1.png","groups":["lugas"],"search":"169 アシルガ"},{"id":"170","name":"クビルガ","image":"https://battlecats-db.imgs-server.com/u170-1.png","groups":["lugas"],"search":"170 クビルガ"},{"id":"171","name":"テコルガ","image":"https://battlecats-db.imgs-server.com/u171-1.png","groups":["lugas"],"search":"171 テコルガ"},{"id":"172","name":"バララガ","image":"https://battlecats-db.imgs-server.com/u172-1.png","groups":["lugas"],"search":"172 バララガ"},{"id":"178","name":"覇龍ディオラムス","image":"https://battlecats-db.imgs-server.com/u178-1.png","groups":["dragons"],"search":"178 覇龍ディオラムス"},{"id":"195","name":"アキラ","image":"https://battlecats-db.imgs-server.com/u195-1.png","groups":["darkheroes"],"search":"195 アキラ"},{"id":"196","name":"西園寺メカ子","image":"https://battlecats-db.imgs-server.com/u196-1.png","groups":["darkheroes"],"search":"196 西園寺メカ子"},{"id":"197","name":"キャットマンダディ","image":"https://battlecats-db.imgs-server.com/u197-1.png","groups":["darkheroes"],"search":"197 キャットマンダディ"},{"id":"204","name":"カチカチヤマンズ","image":"https://battlecats-db.imgs-server.com/u204-1.png","groups":["souls"],"search":"204 カチカチヤマンズ"},{"id":"213","name":"ホワイトラビット","image":"https://battlecats-db.imgs-server.com/u213-1.png","groups":["darkheroes"],"search":"213 ホワイトラビット"},{"id":"227","name":"呪術師デスピエロ","image":"https://battlecats-db.imgs-server.com/u227-1.png","groups":["darkheroes"],"search":"227 呪術師デスピエロ"},{"id":"230","name":"ウィンディスイート","image":"https://battlecats-db.imgs-server.com/u230-1.png","groups":["halloween"],"search":"230 ウィンディスイート"},{"id":"231","name":"デビルサンディア","image":"https://battlecats-db.imgs-server.com/u231-1.png","groups":["halloween"],"search":"231 デビルサンディア"},{"id":"241","name":"トゲルガ","image":"https://battlecats-db.imgs-server.com/u241-1.png","groups":["lugas"],"search":"241 トゲルガ"},{"id":"242","name":"雪だるまのスノーカイ","image":"https://battlecats-db.imgs-server.com/u242-1.png","groups":["christmas"],"search":"242 雪だるまのスノーカイ"},{"id":"243","name":"サンタのメリークウ","image":"https://battlecats-db.imgs-server.com/u243-1.png","groups":["christmas"],"search":"243 サンタのメリークウ"},{"id":"244","name":"聖夜のシスターカッパー","image":"https://battlecats-db.imgs-server.com/u244-1.png","groups":["christmas"],"search":"244 聖夜のシスターカッパー"},{"id":"258","name":"天空神ゼウス","image":"https://battlecats-db.imgs-server.com/u258-1.png","groups":["zeus"],"search":"258 天空神ゼウス"},{"id":"259","name":"守護神アヌビス","image":"https://battlecats-db.imgs-server.com/u259-1.png","groups":["zeus"],"search":"259 守護神アヌビス"},{"id":"260","name":"美女神アフロディーテ","image":"https://battlecats-db.imgs-server.com/u260-1.png","groups":["zeus"],"search":"260 美女神アフロディーテ"},{"id":"262","name":"天誅ハヤブサ","image":"https://battlecats-db.imgs-server.com/u262-1.png","groups":["darkheroes"],"search":"262 天誅ハヤブサ"},{"id":"270","name":"幼獣ガオ","image":"https://battlecats-db.imgs-server.com/u270-1.png","groups":["uberfest_ex"],"search":"270 幼獣ガオ"},{"id":"272","name":"太陽神アマテラス","image":"https://battlecats-db.imgs-server.com/u272-1.png","groups":["zeus"],"search":"272 太陽神アマテラス"},{"id":"273","name":"繁栄神ガネーシャ","image":"https://battlecats-db.imgs-server.com/u273-1.png","groups":["zeus"],"search":"273 繁栄神ガネーシャ"},{"id":"275","name":"トロピカルカリファ","image":"https://battlecats-db.imgs-server.com/u275-1.png","groups":["summer_blue"],"search":"275 トロピカルカリファ"},{"id":"276","name":"真夏のホワイトラビット","image":"https://battlecats-db.imgs-server.com/u276-1.png","groups":["summer_blue"],"search":"276 真夏のホワイトラビット"},{"id":"284","name":"猫飯拳パイパイ","image":"https://battlecats-db.imgs-server.com/u284-1.png","groups":["busters_ex"],"search":"284 猫飯拳パイパイ"},{"id":"287","name":"閃雷機兵レイ","image":"https://battlecats-db.imgs-server.com/u287-1.png","groups":["busters_ex"],"search":"287 閃雷機兵レイ"},{"id":"303","name":"ネコアイスゴースト","image":"https://battlecats-db.imgs-server.com/u303-1.png","groups":["halloween"],"search":"303 ネコアイスゴースト"},{"id":"305","name":"帝国陸軍カタパルズ","image":"https://battlecats-db.imgs-server.com/u305-1.png","groups":["ironwars"],"search":"305 帝国陸軍カタパルズ"},{"id":"306","name":"古代軍船ガレーズ","image":"https://battlecats-db.imgs-server.com/u306-1.png","groups":["ironwars"],"search":"306 古代軍船ガレーズ"},{"id":"307","name":"飛空襲撃ボンバーズ","image":"https://battlecats-db.imgs-server.com/u307-1.png","groups":["ironwars"],"search":"307 飛空襲撃ボンバーズ"},{"id":"311","name":"ネコナースキャンドル","image":"https://battlecats-db.imgs-server.com/u311-1.png","groups":["christmas"],"search":"311 ネコナースキャンドル"},{"id":"317","name":"海王神ポセイドン","image":"https://battlecats-db.imgs-server.com/u317-1.png","groups":["zeus"],"search":"317 海王神ポセイドン"},{"id":"319","name":"巫女姫ミタマ","image":"https://battlecats-db.imgs-server.com/u319-1.png","groups":["uberfest_ex"],"search":"319 巫女姫ミタマ"},{"id":"323","name":"さるかに合戦","image":"https://battlecats-db.imgs-server.com/u323-1.png","groups":["souls"],"search":"323 さるかに合戦"},{"id":"331","name":"上杉謙信・春","image":"https://battlecats-db.imgs-server.com/u331-1.png","groups":["easter"],"search":"331 上杉謙信・春"},{"id":"332","name":"道化師エッグダック","image":"https://battlecats-db.imgs-server.com/u332-1.png","groups":["easter"],"search":"332 道化師エッグダック"},{"id":"334","name":"黒獣ガオウ","image":"https://battlecats-db.imgs-server.com/u334-1.png","groups":["epicfest_ex"],"search":"334 黒獣ガオウ"},{"id":"335","name":"狐娘ヒメユリ","image":"https://battlecats-db.imgs-server.com/u335-1.png","groups":["monstergals"],"search":"335 狐娘ヒメユリ"},{"id":"336","name":"人魚娘ルリィ","image":"https://battlecats-db.imgs-server.com/u336-1.png","groups":["monstergals"],"search":"336 人魚娘ルリィ"},{"id":"337","name":"ミイラ娘レイカ","image":"https://battlecats-db.imgs-server.com/u337-1.png","groups":["monstergals"],"search":"337 ミイラ娘レイカ"},{"id":"339","name":"今川義元","image":"https://battlecats-db.imgs-server.com/u339-1.png","groups":["basaras"],"search":"339 今川義元"},{"id":"352","name":"双掌星のシシル＆コマリ","image":"https://battlecats-db.imgs-server.com/u352-1.png","groups":["galaxy"],"search":"352 双掌星のシシル＆コマリ"},{"id":"355","name":"常夏の果実カイ","image":"https://battlecats-db.imgs-server.com/u355-1.png","groups":["summer_sun"],"search":"355 常夏の果実カイ"},{"id":"356","name":"観測兵器ガリレオ","image":"https://battlecats-db.imgs-server.com/u356-1.png","groups":["ironwars"],"search":"356 観測兵器ガリレオ"},{"id":"358","name":"狼娘ディル","image":"https://battlecats-db.imgs-server.com/u358-1.png","groups":["monstergals"],"search":"358 狼娘ディル"},{"id":"359","name":"ゾンビ娘ヴェルヴェーヌ","image":"https://battlecats-db.imgs-server.com/u359-1.png","groups":["monstergals"],"search":"359 ゾンビ娘ヴェルヴェーヌ"},{"id":"360","name":"火の精霊メララ","image":"https://battlecats-db.imgs-server.com/u360-1.png","groups":["pixies"],"search":"360 火の精霊メララ"},{"id":"361","name":"水の精霊ミズリィ","image":"https://battlecats-db.imgs-server.com/u361-1.png","groups":["pixies"],"search":"361 水の精霊ミズリィ"},{"id":"362","name":"風の精霊エアル","image":"https://battlecats-db.imgs-server.com/u362-1.png","groups":["pixies"],"search":"362 風の精霊エアル"},{"id":"379","name":"黒無垢のミタマ","image":"https://battlecats-db.imgs-server.com/u379-1.png","groups":["epicfest_ex"],"search":"379 黒無垢のミタマ"},{"id":"381","name":"幼傑ダルターニャ","image":"https://battlecats-db.imgs-server.com/u381-1.png","groups":["uberfest_ex"],"search":"381 幼傑ダルターニャ"},{"id":"397","name":"古龍ガングリオン","image":"https://battlecats-db.imgs-server.com/u397-1.png","groups":["dragons"],"search":"397 古龍ガングリオン"},{"id":"398","name":"風隼さくら","image":"https://battlecats-db.imgs-server.com/u398-1.png","groups":["busters_ex"],"search":"398 風隼さくら"},{"id":"402","name":"雷の精霊ボルト","image":"https://battlecats-db.imgs-server.com/u402-1.png","groups":["pixies"],"search":"402 雷の精霊ボルト"},{"id":"418","name":"温泉天国テルマエ","image":"https://battlecats-db.imgs-server.com/u418-1.png","groups":["ironwars"],"search":"418 温泉天国テルマエ"},{"id":"428","name":"ネコクエスト","image":"https://battlecats-db.imgs-server.com/u428-1.png","groups":["dynamites"],"search":"428 ネコクエスト"},{"id":"432","name":"亡者探偵ヴィグラー","image":"https://battlecats-db.imgs-server.com/u432-1.png","groups":["darkheroes"],"search":"432 亡者探偵ヴィグラー"},{"id":"436","name":"ちびネコヴァルキリー","image":"https://battlecats-db.imgs-server.com/u436-1.png","groups":["period_ex"],"search":"436 ちびネコヴァルキリー"},{"id":"437","name":"ノビルガ","image":"https://battlecats-db.imgs-server.com/u437-1.png","groups":["lugas"],"search":"437 ノビルガ"},{"id":"439","name":"灼熱のビーチクウ","image":"https://battlecats-db.imgs-server.com/u439-1.png","groups":["summer_sun"],"search":"439 灼熱のビーチクウ"},{"id":"440","name":"時空神クロノス","image":"https://battlecats-db.imgs-server.com/u440-1.png","groups":["zeus"],"search":"440 時空神クロノス"},{"id":"442","name":"影傑ダークダルターニャ","image":"https://battlecats-db.imgs-server.com/u442-1.png","groups":["epicfest_ex"],"search":"442 影傑ダークダルターニャ"},{"id":"485","name":"黒ちびネコヴァルキリー","image":"https://battlecats-db.imgs-server.com/u485-1.png","groups":["period_ex"],"search":"485 黒ちびネコヴァルキリー"},{"id":"495","name":"潮風のセーラーカッパー","image":"https://battlecats-db.imgs-server.com/u495-1.png","groups":["summer_sun"],"search":"495 潮風のセーラーカッパー"},{"id":"497","name":"成田甲斐","image":"https://battlecats-db.imgs-server.com/u497-1.png","groups":["basaras","valentine"],"search":"497 成田甲斐"},{"id":"503","name":"英雄令嬢メルシュ","image":"https://battlecats-db.imgs-server.com/u503-1.png","groups":["galaxy"],"search":"503 英雄令嬢メルシュ"},{"id":"506","name":"角龍グラディオス","image":"https://battlecats-db.imgs-server.com/u506-1.png","groups":["dragons"],"search":"506 角龍グラディオス"},{"id":"520","name":"ラスヴォース","image":"https://battlecats-db.imgs-server.com/u520-1.png","groups":["dynamites"],"search":"520 ラスヴォース"},{"id":"526","name":"きんたろう","image":"https://battlecats-db.imgs-server.com/u526-1.png","groups":["souls"],"search":"526 きんたろう"},{"id":"527","name":"冬天使のシシル＆コマリ","image":"https://battlecats-db.imgs-server.com/u527-1.png","groups":["christmas"],"search":"527 冬天使のシシル＆コマリ"},{"id":"530","name":"厄災の子キャスリィ","image":"https://battlecats-db.imgs-server.com/u530-1.png","groups":["uberfest_ex"],"search":"530 厄災の子キャスリィ"},{"id":"534","name":"マッドシューター・サキ","image":"https://battlecats-db.imgs-server.com/u534-1.png","groups":["darkheroes","valentine"],"search":"534 マッドシューター・サキ"},{"id":"535","name":"冥界神ハデス","image":"https://battlecats-db.imgs-server.com/u535-1.png","groups":["zeus"],"search":"535 冥界神ハデス"},{"id":"544","name":"禍根の魔女キャスリィ","image":"https://battlecats-db.imgs-server.com/u544-1.png","groups":["epicfest_ex"],"search":"544 禍根の魔女キャスリィ"},{"id":"547","name":"オイルガ","image":"https://battlecats-db.imgs-server.com/u547-1.png","groups":["lugas"],"search":"547 オイルガ"},{"id":"560","name":"地獄警官エマ","image":"https://battlecats-db.imgs-server.com/u560-1.png","groups":["busters_ex"],"search":"560 地獄警官エマ"},{"id":"564","name":"アクアシューター・サキ","image":"https://battlecats-db.imgs-server.com/u564-1.png","groups":["summer_sun"],"search":"564 アクアシューター・サキ"},{"id":"565","name":"ネコルガの夏","image":"https://battlecats-db.imgs-server.com/u565-1.png","groups":["summer_blue"],"search":"565 ネコルガの夏"},{"id":"570","name":"石の精霊ゴロー","image":"https://battlecats-db.imgs-server.com/u570-1.png","groups":["pixies"],"search":"570 石の精霊ゴロー"},{"id":"571","name":"竜騎士スカルバルス","image":"https://battlecats-db.imgs-server.com/u571-1.png","groups":["halloween"],"search":"571 竜騎士スカルバルス"},{"id":"585","name":"前田サンタ慶次","image":"https://battlecats-db.imgs-server.com/u585-1.png","groups":["christmas"],"search":"585 前田サンタ慶次"},{"id":"586","name":"幼獣ガル","image":"https://battlecats-db.imgs-server.com/u586-1.png","groups":["uberfest_ex"],"search":"586 幼獣ガル"},{"id":"587","name":"ネコ王子","image":"https://battlecats-db.imgs-server.com/u587-1.png","groups":["period_ex"],"search":"587 ネコ王子"},{"id":"588","name":"恋女神ショコラディーテ","image":"https://battlecats-db.imgs-server.com/u588-1.png","groups":["valentine"],"search":"588 恋女神ショコラディーテ"},{"id":"589","name":"初恋令嬢メルシュ","image":"https://battlecats-db.imgs-server.com/u589-1.png","groups":["valentine"],"search":"589 初恋令嬢メルシュ"},{"id":"595","name":"空中商会コロンブス","image":"https://battlecats-db.imgs-server.com/u595-1.png","groups":["ironwars"],"search":"595 空中商会コロンブス"},{"id":"596","name":"春龍かむくら","image":"https://battlecats-db.imgs-server.com/u596-1.png","groups":["easter"],"search":"596 春龍かむくら"},{"id":"608","name":"冒険家カンナ","image":"https://battlecats-db.imgs-server.com/u608-1.png","groups":["monstergals"],"search":"608 冒険家カンナ"},{"id":"610","name":"黒獣ガルディアン","image":"https://battlecats-db.imgs-server.com/u610-1.png","groups":["epicfest_ex"],"search":"610 黒獣ガルディアン"},{"id":"615","name":"渚のかぐやひめ","image":"https://battlecats-db.imgs-server.com/u615-1.png","groups":["summer_blue"],"search":"615 渚のかぐやひめ"},{"id":"618","name":"召喚少年サトル","image":"https://battlecats-db.imgs-server.com/u618-1.png","groups":["dynamites"],"search":"618 召喚少年サトル"},{"id":"619","name":"天草四郎","image":"https://battlecats-db.imgs-server.com/u619-1.png","groups":["basaras"],"search":"619 天草四郎"},{"id":"620","name":"妖賢女リリン","image":"https://battlecats-db.imgs-server.com/u620-1.png","groups":["galaxy"],"search":"620 妖賢女リリン"},{"id":"621","name":"邪龍ヘヴィジャーク","image":"https://battlecats-db.imgs-server.com/u621-1.png","groups":["dragons"],"search":"621 邪龍ヘヴィジャーク"},{"id":"626","name":"オコルガ","image":"https://battlecats-db.imgs-server.com/u626-1.png","groups":["lugas"],"search":"626 オコルガ"},{"id":"632","name":"闇の精霊ヤミィ","image":"https://battlecats-db.imgs-server.com/u632-1.png","groups":["pixies"],"search":"632 闇の精霊ヤミィ"},{"id":"633","name":"超竜戦機デス・トロイ","image":"https://battlecats-db.imgs-server.com/u633-1.png","groups":["ironwars"],"search":"633 超竜戦機デス・トロイ"},{"id":"634","name":"舌切りすずめ","image":"https://battlecats-db.imgs-server.com/u634-1.png","groups":["souls"],"search":"634 舌切りすずめ"},{"id":"635","name":"白騎士キュクロプス","image":"https://battlecats-db.imgs-server.com/u635-1.png","groups":["darkheroes"],"search":"635 白騎士キュクロプス"},{"id":"642","name":"踊り子イズ","image":"https://battlecats-db.imgs-server.com/u642-1.png","groups":["uberfest_ex"],"search":"642 踊り子イズ"},{"id":"643","name":"堕天神ルシファー","image":"https://battlecats-db.imgs-server.com/u643-1.png","groups":["zeus"],"search":"643 堕天神ルシファー"},{"id":"645","name":"白い恋人メカ子","image":"https://battlecats-db.imgs-server.com/u645-1.png","groups":["valentine"],"search":"645 白い恋人メカ子"},{"id":"648","name":"狩猟娘テルン","image":"https://battlecats-db.imgs-server.com/u648-1.png","groups":["galaxy"],"search":"648 狩猟娘テルン"},{"id":"649","name":"恋番長・鬼にゃんま","image":"https://battlecats-db.imgs-server.com/u649-1.png","groups":["whiteday_variants"],"search":"649 恋番長・鬼にゃんま"},{"id":"650","name":"服部半蔵","image":"https://battlecats-db.imgs-server.com/u650-1.png","groups":["basaras"],"search":"650 服部半蔵"},{"id":"656","name":"氷の精霊フリズ","image":"https://battlecats-db.imgs-server.com/u656-1.png","groups":["pixies"],"search":"656 氷の精霊フリズ"},{"id":"658","name":"悲嘆の踊り子イズ","image":"https://battlecats-db.imgs-server.com/u658-1.png","groups":["epicfest_ex"],"search":"658 悲嘆の踊り子イズ"},{"id":"661","name":"海龍ダライアサン","image":"https://battlecats-db.imgs-server.com/u661-1.png","groups":["dragons"],"search":"661 海龍ダライアサン"},{"id":"662","name":"祝福神クロノス","image":"https://battlecats-db.imgs-server.com/u662-1.png","groups":["junebride_variants"],"search":"662 祝福神クロノス"},{"id":"667","name":"ナイトビーチリリン","image":"https://battlecats-db.imgs-server.com/u667-1.png","groups":["summer_sun"],"search":"667 ナイトビーチリリン"},{"id":"669","name":"ネコ天狗","image":"https://battlecats-db.imgs-server.com/u669-1.png","groups":["dynamites"],"search":"669 ネコ天狗"},{"id":"675","name":"周遊芸団カルーセルズ","image":"https://battlecats-db.imgs-server.com/u675-1.png","groups":["ironwars"],"search":"675 周遊芸団カルーセルズ"},{"id":"683","name":"女神ベガ","image":"https://battlecats-db.imgs-server.com/u683-1.png","groups":["monstergals"],"search":"683 女神ベガ"},{"id":"684","name":"伯爵・真田幸村","image":"https://battlecats-db.imgs-server.com/u684-1.png","groups":["halloween"],"search":"684 伯爵・真田幸村"},{"id":"687","name":"光の女神シリウス","image":"https://battlecats-db.imgs-server.com/u687-1.png","groups":["busters_ex"],"search":"687 光の女神シリウス"},{"id":"688","name":"トナカイ娘テルン","image":"https://battlecats-db.imgs-server.com/u688-1.png","groups":["christmas"],"search":"688 トナカイ娘テルン"},{"id":"691","name":"運命の子フォノ","image":"https://battlecats-db.imgs-server.com/u691-1.png","groups":["uberfest_ex"],"search":"691 運命の子フォノ"},{"id":"693","name":"いっすん法師","image":"https://battlecats-db.imgs-server.com/u693-1.png","groups":["souls"],"search":"693 いっすん法師"},{"id":"699","name":"サンダージャック","image":"https://battlecats-db.imgs-server.com/u699-1.png","groups":["darkheroes"],"search":"699 サンダージャック"},{"id":"700","name":"決闘少年ラビットサトル","image":"https://battlecats-db.imgs-server.com/u700-1.png","groups":["easter"],"search":"700 決闘少年ラビットサトル"},{"id":"706","name":"非命の王フォノウ","image":"https://battlecats-db.imgs-server.com/u706-1.png","groups":["epicfest_ex"],"search":"706 非命の王フォノウ"},{"id":"712","name":"バララガの誓い","image":"https://battlecats-db.imgs-server.com/u712-1.png","groups":["junebride_variants"],"search":"712 バララガの誓い"},{"id":"713","name":"カオルガ","image":"https://battlecats-db.imgs-server.com/u713-1.png","groups":["lugas"],"search":"713 カオルガ"},{"id":"715","name":"波打ち際の冒険家カンナ","image":"https://battlecats-db.imgs-server.com/u715-1.png","groups":["summer_blue"],"search":"715 波打ち際の冒険家カンナ"},{"id":"716","name":"建築兵団スフィンクス","image":"https://battlecats-db.imgs-server.com/u716-1.png","groups":["ironwars"],"search":"716 建築兵団スフィンクス"},{"id":"720","name":"鉄の精霊カッチン","image":"https://battlecats-db.imgs-server.com/u720-1.png","groups":["pixies"],"search":"720 鉄の精霊カッチン"},{"id":"726","name":"忍者娘トモエ","image":"https://battlecats-db.imgs-server.com/u726-1.png","groups":["monstergals"],"search":"726 忍者娘トモエ"},{"id":"734","name":"鉄籠のペガサ","image":"https://battlecats-db.imgs-server.com/u734-1.png","groups":["galaxy"],"search":"734 鉄籠のペガサ"},{"id":"737","name":"ネコアイスホワイトスター","image":"https://battlecats-db.imgs-server.com/u737-1.png","groups":["whiteday_variants"],"search":"737 ネコアイスホワイトスター"},{"id":"738","name":"スプリングカリファ","image":"https://battlecats-db.imgs-server.com/u738-1.png","groups":["easter"],"search":"738 スプリングカリファ"},{"id":"755","name":"明智光秀","image":"https://battlecats-db.imgs-server.com/u755-1.png","groups":["basaras"],"search":"755 明智光秀"},{"id":"757","name":"ネコケーキマシン挙式","image":"https://battlecats-db.imgs-server.com/u757-1.png","groups":["junebride_variants"],"search":"757 ネコケーキマシン挙式"},{"id":"760","name":"サマーフェスサンディア","image":"https://battlecats-db.imgs-server.com/u760-1.png","groups":["summer_blue"],"search":"760 サマーフェスサンディア"},{"id":"761","name":"砲龍ガンドロス","image":"https://battlecats-db.imgs-server.com/u761-1.png","groups":["dragons"],"search":"761 砲龍ガンドロス"},{"id":"764","name":"ネコダイナザウルス","image":"https://battlecats-db.imgs-server.com/u764-1.png","groups":["dynamites"],"search":"764 ネコダイナザウルス"},{"id":"770","name":"花咲かじいさん","image":"https://battlecats-db.imgs-server.com/u770-1.png","groups":["souls"],"search":"770 花咲かじいさん"},{"id":"773","name":"パンプキンソドム","image":"https://battlecats-db.imgs-server.com/u773-1.png","groups":["halloween"],"search":"773 パンプキンソドム"},{"id":"775","name":"特命機動アクセル","image":"https://battlecats-db.imgs-server.com/u775-1.png","groups":["darkheroes"],"search":"775 特命機動アクセル"},{"id":"778","name":"冬将軍・成田甲斐","image":"https://battlecats-db.imgs-server.com/u778-1.png","groups":["christmas"],"search":"778 冬将軍・成田甲斐"},{"id":"780","name":"幼天女ルーナ","image":"https://battlecats-db.imgs-server.com/u780-1.png","groups":["uberfest_ex"],"search":"780 幼天女ルーナ"},{"id":"782","name":"マモルガ","image":"https://battlecats-db.imgs-server.com/u782-1.png","groups":["lugas"],"search":"782 マモルガ"},{"id":"787","name":"マジシャンキャットマン","image":"https://battlecats-db.imgs-server.com/u787-1.png","groups":["whiteday_variants"],"search":"787 マジシャンキャットマン"},{"id":"788","name":"冥護の天女ルナーシャ","image":"https://battlecats-db.imgs-server.com/u788-1.png","groups":["epicfest_ex"],"search":"788 冥護の天女ルナーシャ"},{"id":"800","name":"曲射砲台ランチャーズ","image":"https://battlecats-db.imgs-server.com/u800-1.png","groups":["ironwars"],"search":"800 曲射砲台ランチャーズ"},{"id":"818","name":"樹の精霊コモリ","image":"https://battlecats-db.imgs-server.com/u818-1.png","groups":["pixies"],"search":"818 樹の精霊コモリ"},{"id":"821","name":"シーサイドペガサ","image":"https://battlecats-db.imgs-server.com/u821-1.png","groups":["summer_sun"],"search":"821 シーサイドペガサ"},{"id":"825","name":"魔導師シドミ","image":"https://battlecats-db.imgs-server.com/u825-1.png","groups":["monstergals"],"search":"825 魔導師シドミ"},{"id":"831","name":"獅子番長ラクレス","image":"https://battlecats-db.imgs-server.com/u831-1.png","groups":["galaxy"],"search":"831 獅子番長ラクレス"},{"id":"838","name":"幼騎士ルーノ","image":"https://battlecats-db.imgs-server.com/u838-1.png","groups":["uberfest_ex"],"search":"838 幼騎士ルーノ"},{"id":"851","name":"風魔小太郎","image":"https://battlecats-db.imgs-server.com/u851-1.png","groups":["basaras"],"search":"851 風魔小太郎"},{"id":"860","name":"孤月の騎士ルーノス","image":"https://battlecats-db.imgs-server.com/u860-1.png","groups":["epicfest_ex"],"search":"860 孤月の騎士ルーノス"},{"id":"862","name":"嵐竜機ヴォルネード","image":"https://battlecats-db.imgs-server.com/u862-1.png","groups":["dragons"],"search":"862 嵐竜機ヴォルネード"},{"id":"863","name":"婚礼・服部半蔵","image":"https://battlecats-db.imgs-server.com/u863-1.png","groups":["junebride_variants"],"search":"863 婚礼・服部半蔵"},{"id":"870","name":"鉄腕！東雲寺あかね","image":"https://battlecats-db.imgs-server.com/u870-1.png","groups":["dynamites"],"search":"870 鉄腕！東雲寺あかね"},{"id":"873","name":"ジャングルハンタートモエ","image":"https://battlecats-db.imgs-server.com/u873-1.png","groups":["summer_blue"],"search":"873 ジャングルハンタートモエ"}],"groups":[{"id":"lugas","name":"伝説のネコルガ族","category":"通常シリーズ","ids":["035","169","170","171","172","241","437","547","626","713","782"],"note":""},{"id":"dynamites","name":"超激ダイナマイツ","category":"通常シリーズ","ids":["043","044","045","058","060","144","428","520","618","669","764","870"],"note":""},{"id":"basaras","name":"戦国武神バサラーズ","category":"通常シリーズ","ids":["072","073","074","125","126","159","339","497","619","650","755","851"],"note":""},{"id":"galaxy","name":"電脳学園ギャラクシーギャルズ","category":"通常シリーズ","ids":["076","077","106","107","108","160","352","503","620","648","734","831"],"note":""},{"id":"dragons","name":"超破壊大帝ドラゴンエンペラーズ","category":"通常シリーズ","ids":["084","085","086","087","088","178","397","506","621","661","761","862"],"note":""},{"id":"souls","name":"超古代勇者ウルトラソウルズ","category":"通常シリーズ","ids":["135","136","137","138","139","204","323","526","634","693","770"],"note":""},{"id":"darkheroes","name":"逆襲の英雄ダークヒーローズ","category":"通常シリーズ","ids":["195","196","197","213","227","262","432","534","635","699","775"],"note":""},{"id":"zeus","name":"究極降臨ギガントゼウス","category":"通常シリーズ","ids":["258","259","260","272","273","317","440","535","643"],"note":""},{"id":"ironwars","name":"革命軍隊アイアンウォーズ","category":"通常シリーズ","ids":["305","306","307","356","418","595","633","675","716","800"],"note":""},{"id":"pixies","name":"大精霊エレメンタルピクシーズ","category":"通常シリーズ","ids":["360","361","362","402","570","632","656","720","818"],"note":""},{"id":"monstergals","name":"絶命美少女ギャルズモンスターズ","category":"通常シリーズ","ids":["335","336","337","358","359","608","683","726","825"],"note":""},{"id":"uberfest_ex","name":"超ネコ祭 限定キャラ","category":"限定・祭","ids":["270","319","381","530","586","642","691","780","838"],"note":"祭の限定枠だけを表示"},{"id":"epicfest_ex","name":"極ネコ祭 限定キャラ","category":"限定・祭","ids":["334","379","442","544","610","658","706","788","860"],"note":"祭の限定枠だけを表示"},{"id":"busters_ex","name":"バスターズ系 限定キャラ","category":"限定・祭","ids":["284","287","398","560","687"],"note":"各バスターズ固有の超激レアをまとめて表示"},{"id":"period_ex","name":"その他の期間限定","category":"限定・祭","ids":["436","485","587"],"note":""},{"id":"halloween","name":"ハロウィンガチャ","category":"季節ガチャ","ids":["230","231","303","571","684","773"],"note":""},{"id":"christmas","name":"クリスマスギャルズ","category":"季節ガチャ","ids":["242","243","244","311","527","585","688","778"],"note":""},{"id":"summer_sun","name":"サマーガールズ：サンシャイン","category":"季節ガチャ","ids":["355","439","495","564","667","821"],"note":""},{"id":"summer_blue","name":"サマーガールズ：ブルーオーシャン","category":"季節ガチャ","ids":["275","276","565","615","715","760","873"],"note":""},{"id":"easter","name":"イースターカーニバル","category":"季節ガチャ","ids":["331","332","596","700","738"],"note":""},{"id":"valentine","name":"バレンタインギャルズ","category":"季節ガチャ","ids":["139","144","497","534","588","589","645"],"note":""},{"id":"whiteday_variants","name":"ホワイトデー系 限定キャラ","category":"季節ガチャ","ids":["649","737","787"],"note":"限定・季節キャラ中心のフィルター"},{"id":"junebride_variants","name":"ジューンブライド系 限定キャラ","category":"季節ガチャ","ids":["662","712","757","863"],"note":"限定・季節キャラ中心のフィルター"}],"categories":["通常シリーズ","限定・祭","季節ガチャ"]};
+window.NYANKO_DATA = {
+  "version": "2.1.0",
+  "snapshot": "2026-09-01",
+  "source": "Current actual gacha rosters audited against Game8; character IDs/images from battlecats-db.com",
+  "characters": [
+    {
+      "id": "035",
+      "name": "ネコルガ",
+      "image": "https://battlecats-db.imgs-server.com/u035-1.png",
+      "search": "035 ネコルガ"
+    },
+    {
+      "id": "043",
+      "name": "ネコアイス",
+      "image": "https://battlecats-db.imgs-server.com/u043-1.png",
+      "search": "043 ネコアイス"
+    },
+    {
+      "id": "044",
+      "name": "ネコマシン",
+      "image": "https://battlecats-db.imgs-server.com/u044-1.png",
+      "search": "044 ネコマシン"
+    },
+    {
+      "id": "045",
+      "name": "鬼にゃんま",
+      "image": "https://battlecats-db.imgs-server.com/u045-1.png",
+      "search": "045 鬼にゃんま"
+    },
+    {
+      "id": "058",
+      "name": "ネコシュバリエ",
+      "image": "https://battlecats-db.imgs-server.com/u058-1.png",
+      "search": "058 ネコシュバリエ"
+    },
+    {
+      "id": "060",
+      "name": "ねこベビー",
+      "image": "https://battlecats-db.imgs-server.com/u060-1.png",
+      "search": "060 ねこベビー"
+    },
+    {
+      "id": "072",
+      "name": "真田幸村",
+      "image": "https://battlecats-db.imgs-server.com/u072-1.png",
+      "search": "072 真田幸村"
+    },
+    {
+      "id": "073",
+      "name": "前田慶次",
+      "image": "https://battlecats-db.imgs-server.com/u073-1.png",
+      "search": "073 前田慶次"
+    },
+    {
+      "id": "074",
+      "name": "織田信長",
+      "image": "https://battlecats-db.imgs-server.com/u074-1.png",
+      "search": "074 織田信長"
+    },
+    {
+      "id": "076",
+      "name": "風神のウィンディ",
+      "image": "https://battlecats-db.imgs-server.com/u076-1.png",
+      "search": "076 風神のウィンディ"
+    },
+    {
+      "id": "077",
+      "name": "雷神のサンディア",
+      "image": "https://battlecats-db.imgs-server.com/u077-1.png",
+      "search": "077 雷神のサンディア"
+    },
+    {
+      "id": "084",
+      "name": "地龍ソドム",
+      "image": "https://battlecats-db.imgs-server.com/u084-1.png",
+      "search": "084 地龍ソドム"
+    },
+    {
+      "id": "085",
+      "name": "聖龍メギドラ",
+      "image": "https://battlecats-db.imgs-server.com/u085-1.png",
+      "search": "085 聖龍メギドラ"
+    },
+    {
+      "id": "086",
+      "name": "竜騎士バルス",
+      "image": "https://battlecats-db.imgs-server.com/u086-1.png",
+      "search": "086 竜騎士バルス"
+    },
+    {
+      "id": "087",
+      "name": "神龍かむくら",
+      "image": "https://battlecats-db.imgs-server.com/u087-1.png",
+      "search": "087 神龍かむくら"
+    },
+    {
+      "id": "088",
+      "name": "竜戦機ライデン",
+      "image": "https://battlecats-db.imgs-server.com/u088-1.png",
+      "search": "088 竜戦機ライデン"
+    },
+    {
+      "id": "106",
+      "name": "猿帝のクウ",
+      "image": "https://battlecats-db.imgs-server.com/u106-1.png",
+      "search": "106 猿帝のクウ"
+    },
+    {
+      "id": "107",
+      "name": "召し豚のカイ",
+      "image": "https://battlecats-db.imgs-server.com/u107-1.png",
+      "search": "107 召し豚のカイ"
+    },
+    {
+      "id": "108",
+      "name": "宝杖のカッパーマイン",
+      "image": "https://battlecats-db.imgs-server.com/u108-1.png",
+      "search": "108 宝杖のカッパーマイン"
+    },
+    {
+      "id": "125",
+      "name": "伊達政宗",
+      "image": "https://battlecats-db.imgs-server.com/u125-1.png",
+      "search": "125 伊達政宗"
+    },
+    {
+      "id": "126",
+      "name": "武田信玄",
+      "image": "https://battlecats-db.imgs-server.com/u126-1.png",
+      "search": "126 武田信玄"
+    },
+    {
+      "id": "135",
+      "name": "うらしまタロウ",
+      "image": "https://battlecats-db.imgs-server.com/u135-1.png",
+      "search": "135 うらしまタロウ"
+    },
+    {
+      "id": "136",
+      "name": "ツルの恩返し",
+      "image": "https://battlecats-db.imgs-server.com/u136-1.png",
+      "search": "136 ツルの恩返し"
+    },
+    {
+      "id": "137",
+      "name": "ももたろう",
+      "image": "https://battlecats-db.imgs-server.com/u137-1.png",
+      "search": "137 ももたろう"
+    },
+    {
+      "id": "138",
+      "name": "かさじぞう",
+      "image": "https://battlecats-db.imgs-server.com/u138-1.png",
+      "search": "138 かさじぞう"
+    },
+    {
+      "id": "139",
+      "name": "かぐやひめ",
+      "image": "https://battlecats-db.imgs-server.com/u139-1.png",
+      "search": "139 かぐやひめ"
+    },
+    {
+      "id": "144",
+      "name": "ねこナース",
+      "image": "https://battlecats-db.imgs-server.com/u144-1.png",
+      "search": "144 ねこナース"
+    },
+    {
+      "id": "159",
+      "name": "上杉謙信",
+      "image": "https://battlecats-db.imgs-server.com/u159-1.png",
+      "search": "159 上杉謙信"
+    },
+    {
+      "id": "160",
+      "name": "冥界のカリファ",
+      "image": "https://battlecats-db.imgs-server.com/u160-1.png",
+      "search": "160 冥界のカリファ"
+    },
+    {
+      "id": "169",
+      "name": "アシルガ",
+      "image": "https://battlecats-db.imgs-server.com/u169-1.png",
+      "search": "169 アシルガ"
+    },
+    {
+      "id": "170",
+      "name": "クビルガ",
+      "image": "https://battlecats-db.imgs-server.com/u170-1.png",
+      "search": "170 クビルガ"
+    },
+    {
+      "id": "171",
+      "name": "テコルガ",
+      "image": "https://battlecats-db.imgs-server.com/u171-1.png",
+      "search": "171 テコルガ"
+    },
+    {
+      "id": "172",
+      "name": "バララガ",
+      "image": "https://battlecats-db.imgs-server.com/u172-1.png",
+      "search": "172 バララガ"
+    },
+    {
+      "id": "178",
+      "name": "覇龍ディオラムス",
+      "image": "https://battlecats-db.imgs-server.com/u178-1.png",
+      "search": "178 覇龍ディオラムス"
+    },
+    {
+      "id": "195",
+      "name": "アキラ",
+      "image": "https://battlecats-db.imgs-server.com/u195-1.png",
+      "search": "195 アキラ"
+    },
+    {
+      "id": "196",
+      "name": "西園寺メカ子",
+      "image": "https://battlecats-db.imgs-server.com/u196-1.png",
+      "search": "196 西園寺メカ子"
+    },
+    {
+      "id": "197",
+      "name": "キャットマンダディ",
+      "image": "https://battlecats-db.imgs-server.com/u197-1.png",
+      "search": "197 キャットマンダディ"
+    },
+    {
+      "id": "204",
+      "name": "カチカチヤマンズ",
+      "image": "https://battlecats-db.imgs-server.com/u204-1.png",
+      "search": "204 カチカチヤマンズ"
+    },
+    {
+      "id": "213",
+      "name": "ホワイトラビット",
+      "image": "https://battlecats-db.imgs-server.com/u213-1.png",
+      "search": "213 ホワイトラビット"
+    },
+    {
+      "id": "227",
+      "name": "呪術師デスピエロ",
+      "image": "https://battlecats-db.imgs-server.com/u227-1.png",
+      "search": "227 呪術師デスピエロ"
+    },
+    {
+      "id": "230",
+      "name": "ウィンディスイート",
+      "image": "https://battlecats-db.imgs-server.com/u230-1.png",
+      "search": "230 ウィンディスイート"
+    },
+    {
+      "id": "231",
+      "name": "デビルサンディア",
+      "image": "https://battlecats-db.imgs-server.com/u231-1.png",
+      "search": "231 デビルサンディア"
+    },
+    {
+      "id": "241",
+      "name": "トゲルガ",
+      "image": "https://battlecats-db.imgs-server.com/u241-1.png",
+      "search": "241 トゲルガ"
+    },
+    {
+      "id": "242",
+      "name": "雪だるまのスノーカイ",
+      "image": "https://battlecats-db.imgs-server.com/u242-1.png",
+      "search": "242 雪だるまのスノーカイ"
+    },
+    {
+      "id": "243",
+      "name": "サンタのメリークウ",
+      "image": "https://battlecats-db.imgs-server.com/u243-1.png",
+      "search": "243 サンタのメリークウ"
+    },
+    {
+      "id": "244",
+      "name": "聖夜のシスターカッパー",
+      "image": "https://battlecats-db.imgs-server.com/u244-1.png",
+      "search": "244 聖夜のシスターカッパー"
+    },
+    {
+      "id": "258",
+      "name": "天空神ゼウス",
+      "image": "https://battlecats-db.imgs-server.com/u258-1.png",
+      "search": "258 天空神ゼウス"
+    },
+    {
+      "id": "259",
+      "name": "守護神アヌビス",
+      "image": "https://battlecats-db.imgs-server.com/u259-1.png",
+      "search": "259 守護神アヌビス"
+    },
+    {
+      "id": "260",
+      "name": "美女神アフロディーテ",
+      "image": "https://battlecats-db.imgs-server.com/u260-1.png",
+      "search": "260 美女神アフロディーテ"
+    },
+    {
+      "id": "262",
+      "name": "天誅ハヤブサ",
+      "image": "https://battlecats-db.imgs-server.com/u262-1.png",
+      "search": "262 天誅ハヤブサ"
+    },
+    {
+      "id": "270",
+      "name": "幼獣ガオ",
+      "image": "https://battlecats-db.imgs-server.com/u270-1.png",
+      "search": "270 幼獣ガオ"
+    },
+    {
+      "id": "272",
+      "name": "太陽神アマテラス",
+      "image": "https://battlecats-db.imgs-server.com/u272-1.png",
+      "search": "272 太陽神アマテラス"
+    },
+    {
+      "id": "273",
+      "name": "繁栄神ガネーシャ",
+      "image": "https://battlecats-db.imgs-server.com/u273-1.png",
+      "search": "273 繁栄神ガネーシャ"
+    },
+    {
+      "id": "275",
+      "name": "トロピカルカリファ",
+      "image": "https://battlecats-db.imgs-server.com/u275-1.png",
+      "search": "275 トロピカルカリファ"
+    },
+    {
+      "id": "276",
+      "name": "真夏のホワイトラビット",
+      "image": "https://battlecats-db.imgs-server.com/u276-1.png",
+      "search": "276 真夏のホワイトラビット"
+    },
+    {
+      "id": "284",
+      "name": "猫飯拳パイパイ",
+      "image": "https://battlecats-db.imgs-server.com/u284-1.png",
+      "search": "284 猫飯拳パイパイ"
+    },
+    {
+      "id": "287",
+      "name": "閃雷機兵レイ",
+      "image": "https://battlecats-db.imgs-server.com/u287-1.png",
+      "search": "287 閃雷機兵レイ"
+    },
+    {
+      "id": "303",
+      "name": "ネコアイスゴースト",
+      "image": "https://battlecats-db.imgs-server.com/u303-1.png",
+      "search": "303 ネコアイスゴースト"
+    },
+    {
+      "id": "305",
+      "name": "帝国陸軍カタパルズ",
+      "image": "https://battlecats-db.imgs-server.com/u305-1.png",
+      "search": "305 帝国陸軍カタパルズ"
+    },
+    {
+      "id": "306",
+      "name": "古代軍船ガレーズ",
+      "image": "https://battlecats-db.imgs-server.com/u306-1.png",
+      "search": "306 古代軍船ガレーズ"
+    },
+    {
+      "id": "307",
+      "name": "飛空襲撃ボンバーズ",
+      "image": "https://battlecats-db.imgs-server.com/u307-1.png",
+      "search": "307 飛空襲撃ボンバーズ"
+    },
+    {
+      "id": "311",
+      "name": "ネコナースキャンドル",
+      "image": "https://battlecats-db.imgs-server.com/u311-1.png",
+      "search": "311 ネコナースキャンドル"
+    },
+    {
+      "id": "317",
+      "name": "海王神ポセイドン",
+      "image": "https://battlecats-db.imgs-server.com/u317-1.png",
+      "search": "317 海王神ポセイドン"
+    },
+    {
+      "id": "319",
+      "name": "巫女姫ミタマ",
+      "image": "https://battlecats-db.imgs-server.com/u319-1.png",
+      "search": "319 巫女姫ミタマ"
+    },
+    {
+      "id": "323",
+      "name": "さるかに合戦",
+      "image": "https://battlecats-db.imgs-server.com/u323-1.png",
+      "search": "323 さるかに合戦"
+    },
+    {
+      "id": "331",
+      "name": "上杉謙信・春",
+      "image": "https://battlecats-db.imgs-server.com/u331-1.png",
+      "search": "331 上杉謙信・春"
+    },
+    {
+      "id": "332",
+      "name": "道化師エッグダック",
+      "image": "https://battlecats-db.imgs-server.com/u332-1.png",
+      "search": "332 道化師エッグダック"
+    },
+    {
+      "id": "334",
+      "name": "黒獣ガオウ",
+      "image": "https://battlecats-db.imgs-server.com/u334-1.png",
+      "search": "334 黒獣ガオウ"
+    },
+    {
+      "id": "335",
+      "name": "狐娘ヒメユリ",
+      "image": "https://battlecats-db.imgs-server.com/u335-1.png",
+      "search": "335 狐娘ヒメユリ"
+    },
+    {
+      "id": "336",
+      "name": "人魚娘ルリィ",
+      "image": "https://battlecats-db.imgs-server.com/u336-1.png",
+      "search": "336 人魚娘ルリィ"
+    },
+    {
+      "id": "337",
+      "name": "ミイラ娘レイカ",
+      "image": "https://battlecats-db.imgs-server.com/u337-1.png",
+      "search": "337 ミイラ娘レイカ"
+    },
+    {
+      "id": "339",
+      "name": "今川義元",
+      "image": "https://battlecats-db.imgs-server.com/u339-1.png",
+      "search": "339 今川義元"
+    },
+    {
+      "id": "352",
+      "name": "双掌星のシシル＆コマリ",
+      "image": "https://battlecats-db.imgs-server.com/u352-1.png",
+      "search": "352 双掌星のシシル＆コマリ"
+    },
+    {
+      "id": "355",
+      "name": "常夏の果実カイ",
+      "image": "https://battlecats-db.imgs-server.com/u355-1.png",
+      "search": "355 常夏の果実カイ"
+    },
+    {
+      "id": "356",
+      "name": "観測兵器ガリレオ",
+      "image": "https://battlecats-db.imgs-server.com/u356-1.png",
+      "search": "356 観測兵器ガリレオ"
+    },
+    {
+      "id": "358",
+      "name": "狼娘ディル",
+      "image": "https://battlecats-db.imgs-server.com/u358-1.png",
+      "search": "358 狼娘ディル"
+    },
+    {
+      "id": "359",
+      "name": "ゾンビ娘ヴェルヴェーヌ",
+      "image": "https://battlecats-db.imgs-server.com/u359-1.png",
+      "search": "359 ゾンビ娘ヴェルヴェーヌ"
+    },
+    {
+      "id": "360",
+      "name": "火の精霊メララ",
+      "image": "https://battlecats-db.imgs-server.com/u360-1.png",
+      "search": "360 火の精霊メララ"
+    },
+    {
+      "id": "361",
+      "name": "水の精霊ミズリィ",
+      "image": "https://battlecats-db.imgs-server.com/u361-1.png",
+      "search": "361 水の精霊ミズリィ"
+    },
+    {
+      "id": "362",
+      "name": "風の精霊エアル",
+      "image": "https://battlecats-db.imgs-server.com/u362-1.png",
+      "search": "362 風の精霊エアル"
+    },
+    {
+      "id": "379",
+      "name": "黒無垢のミタマ",
+      "image": "https://battlecats-db.imgs-server.com/u379-1.png",
+      "search": "379 黒無垢のミタマ"
+    },
+    {
+      "id": "381",
+      "name": "幼傑ダルターニャ",
+      "image": "https://battlecats-db.imgs-server.com/u381-1.png",
+      "search": "381 幼傑ダルターニャ"
+    },
+    {
+      "id": "397",
+      "name": "古龍ガングリオン",
+      "image": "https://battlecats-db.imgs-server.com/u397-1.png",
+      "search": "397 古龍ガングリオン"
+    },
+    {
+      "id": "398",
+      "name": "風隼さくら",
+      "image": "https://battlecats-db.imgs-server.com/u398-1.png",
+      "search": "398 風隼さくら"
+    },
+    {
+      "id": "402",
+      "name": "雷の精霊ボルト",
+      "image": "https://battlecats-db.imgs-server.com/u402-1.png",
+      "search": "402 雷の精霊ボルト"
+    },
+    {
+      "id": "418",
+      "name": "温泉天国テルマエ",
+      "image": "https://battlecats-db.imgs-server.com/u418-1.png",
+      "search": "418 温泉天国テルマエ"
+    },
+    {
+      "id": "428",
+      "name": "ネコクエスト",
+      "image": "https://battlecats-db.imgs-server.com/u428-1.png",
+      "search": "428 ネコクエスト"
+    },
+    {
+      "id": "432",
+      "name": "亡者探偵ヴィグラー",
+      "image": "https://battlecats-db.imgs-server.com/u432-1.png",
+      "search": "432 亡者探偵ヴィグラー"
+    },
+    {
+      "id": "436",
+      "name": "ちびネコヴァルキリー",
+      "image": "https://battlecats-db.imgs-server.com/u436-1.png",
+      "search": "436 ちびネコヴァルキリー"
+    },
+    {
+      "id": "437",
+      "name": "ノビルガ",
+      "image": "https://battlecats-db.imgs-server.com/u437-1.png",
+      "search": "437 ノビルガ"
+    },
+    {
+      "id": "439",
+      "name": "灼熱のビーチクウ",
+      "image": "https://battlecats-db.imgs-server.com/u439-1.png",
+      "search": "439 灼熱のビーチクウ"
+    },
+    {
+      "id": "440",
+      "name": "時空神クロノス",
+      "image": "https://battlecats-db.imgs-server.com/u440-1.png",
+      "search": "440 時空神クロノス"
+    },
+    {
+      "id": "442",
+      "name": "影傑ダークダルターニャ",
+      "image": "https://battlecats-db.imgs-server.com/u442-1.png",
+      "search": "442 影傑ダークダルターニャ"
+    },
+    {
+      "id": "485",
+      "name": "黒ちびネコヴァルキリー",
+      "image": "https://battlecats-db.imgs-server.com/u485-1.png",
+      "search": "485 黒ちびネコヴァルキリー"
+    },
+    {
+      "id": "495",
+      "name": "潮風のセーラーカッパー",
+      "image": "https://battlecats-db.imgs-server.com/u495-1.png",
+      "search": "495 潮風のセーラーカッパー"
+    },
+    {
+      "id": "497",
+      "name": "成田甲斐",
+      "image": "https://battlecats-db.imgs-server.com/u497-1.png",
+      "search": "497 成田甲斐"
+    },
+    {
+      "id": "503",
+      "name": "英雄令嬢メルシュ",
+      "image": "https://battlecats-db.imgs-server.com/u503-1.png",
+      "search": "503 英雄令嬢メルシュ"
+    },
+    {
+      "id": "506",
+      "name": "角龍グラディオス",
+      "image": "https://battlecats-db.imgs-server.com/u506-1.png",
+      "search": "506 角龍グラディオス"
+    },
+    {
+      "id": "520",
+      "name": "ラスヴォース",
+      "image": "https://battlecats-db.imgs-server.com/u520-1.png",
+      "search": "520 ラスヴォース"
+    },
+    {
+      "id": "526",
+      "name": "きんたろう",
+      "image": "https://battlecats-db.imgs-server.com/u526-1.png",
+      "search": "526 きんたろう"
+    },
+    {
+      "id": "527",
+      "name": "冬天使のシシル＆コマリ",
+      "image": "https://battlecats-db.imgs-server.com/u527-1.png",
+      "search": "527 冬天使のシシル＆コマリ"
+    },
+    {
+      "id": "530",
+      "name": "厄災の子キャスリィ",
+      "image": "https://battlecats-db.imgs-server.com/u530-1.png",
+      "search": "530 厄災の子キャスリィ"
+    },
+    {
+      "id": "534",
+      "name": "マッドシューター・サキ",
+      "image": "https://battlecats-db.imgs-server.com/u534-1.png",
+      "search": "534 マッドシューター・サキ"
+    },
+    {
+      "id": "535",
+      "name": "冥界神ハデス",
+      "image": "https://battlecats-db.imgs-server.com/u535-1.png",
+      "search": "535 冥界神ハデス"
+    },
+    {
+      "id": "544",
+      "name": "禍根の魔女キャスリィ",
+      "image": "https://battlecats-db.imgs-server.com/u544-1.png",
+      "search": "544 禍根の魔女キャスリィ"
+    },
+    {
+      "id": "547",
+      "name": "オイルガ",
+      "image": "https://battlecats-db.imgs-server.com/u547-1.png",
+      "search": "547 オイルガ"
+    },
+    {
+      "id": "560",
+      "name": "地獄警官エマ",
+      "image": "https://battlecats-db.imgs-server.com/u560-1.png",
+      "search": "560 地獄警官エマ"
+    },
+    {
+      "id": "564",
+      "name": "アクアシューター・サキ",
+      "image": "https://battlecats-db.imgs-server.com/u564-1.png",
+      "search": "564 アクアシューター・サキ"
+    },
+    {
+      "id": "565",
+      "name": "ネコルガの夏",
+      "image": "https://battlecats-db.imgs-server.com/u565-1.png",
+      "search": "565 ネコルガの夏"
+    },
+    {
+      "id": "570",
+      "name": "石の精霊ゴロー",
+      "image": "https://battlecats-db.imgs-server.com/u570-1.png",
+      "search": "570 石の精霊ゴロー"
+    },
+    {
+      "id": "571",
+      "name": "竜騎士スカルバルス",
+      "image": "https://battlecats-db.imgs-server.com/u571-1.png",
+      "search": "571 竜騎士スカルバルス"
+    },
+    {
+      "id": "585",
+      "name": "前田サンタ慶次",
+      "image": "https://battlecats-db.imgs-server.com/u585-1.png",
+      "search": "585 前田サンタ慶次"
+    },
+    {
+      "id": "586",
+      "name": "幼獣ガル",
+      "image": "https://battlecats-db.imgs-server.com/u586-1.png",
+      "search": "586 幼獣ガル"
+    },
+    {
+      "id": "588",
+      "name": "恋女神ショコラディーテ",
+      "image": "https://battlecats-db.imgs-server.com/u588-1.png",
+      "search": "588 恋女神ショコラディーテ"
+    },
+    {
+      "id": "589",
+      "name": "初恋令嬢メルシュ",
+      "image": "https://battlecats-db.imgs-server.com/u589-1.png",
+      "search": "589 初恋令嬢メルシュ"
+    },
+    {
+      "id": "595",
+      "name": "空中商会コロンブス",
+      "image": "https://battlecats-db.imgs-server.com/u595-1.png",
+      "search": "595 空中商会コロンブス"
+    },
+    {
+      "id": "596",
+      "name": "春龍かむくら",
+      "image": "https://battlecats-db.imgs-server.com/u596-1.png",
+      "search": "596 春龍かむくら"
+    },
+    {
+      "id": "608",
+      "name": "冒険家カンナ",
+      "image": "https://battlecats-db.imgs-server.com/u608-1.png",
+      "search": "608 冒険家カンナ"
+    },
+    {
+      "id": "610",
+      "name": "黒獣ガルディアン",
+      "image": "https://battlecats-db.imgs-server.com/u610-1.png",
+      "search": "610 黒獣ガルディアン"
+    },
+    {
+      "id": "615",
+      "name": "渚のかぐやひめ",
+      "image": "https://battlecats-db.imgs-server.com/u615-1.png",
+      "search": "615 渚のかぐやひめ"
+    },
+    {
+      "id": "618",
+      "name": "召喚少年サトル",
+      "image": "https://battlecats-db.imgs-server.com/u618-1.png",
+      "search": "618 召喚少年サトル"
+    },
+    {
+      "id": "619",
+      "name": "天草四郎",
+      "image": "https://battlecats-db.imgs-server.com/u619-1.png",
+      "search": "619 天草四郎"
+    },
+    {
+      "id": "620",
+      "name": "妖賢女リリン",
+      "image": "https://battlecats-db.imgs-server.com/u620-1.png",
+      "search": "620 妖賢女リリン"
+    },
+    {
+      "id": "621",
+      "name": "邪龍ヘヴィジャーク",
+      "image": "https://battlecats-db.imgs-server.com/u621-1.png",
+      "search": "621 邪龍ヘヴィジャーク"
+    },
+    {
+      "id": "626",
+      "name": "オコルガ",
+      "image": "https://battlecats-db.imgs-server.com/u626-1.png",
+      "search": "626 オコルガ"
+    },
+    {
+      "id": "632",
+      "name": "闇の精霊ヤミィ",
+      "image": "https://battlecats-db.imgs-server.com/u632-1.png",
+      "search": "632 闇の精霊ヤミィ"
+    },
+    {
+      "id": "633",
+      "name": "超竜戦機デス・トロイ",
+      "image": "https://battlecats-db.imgs-server.com/u633-1.png",
+      "search": "633 超竜戦機デス・トロイ"
+    },
+    {
+      "id": "634",
+      "name": "舌切りすずめ",
+      "image": "https://battlecats-db.imgs-server.com/u634-1.png",
+      "search": "634 舌切りすずめ"
+    },
+    {
+      "id": "635",
+      "name": "白騎士キュクロプス",
+      "image": "https://battlecats-db.imgs-server.com/u635-1.png",
+      "search": "635 白騎士キュクロプス"
+    },
+    {
+      "id": "642",
+      "name": "踊り子イズ",
+      "image": "https://battlecats-db.imgs-server.com/u642-1.png",
+      "search": "642 踊り子イズ"
+    },
+    {
+      "id": "643",
+      "name": "堕天神ルシファー",
+      "image": "https://battlecats-db.imgs-server.com/u643-1.png",
+      "search": "643 堕天神ルシファー"
+    },
+    {
+      "id": "645",
+      "name": "白い恋人メカ子",
+      "image": "https://battlecats-db.imgs-server.com/u645-1.png",
+      "search": "645 白い恋人メカ子"
+    },
+    {
+      "id": "648",
+      "name": "狩猟娘テルン",
+      "image": "https://battlecats-db.imgs-server.com/u648-1.png",
+      "search": "648 狩猟娘テルン"
+    },
+    {
+      "id": "649",
+      "name": "恋番長・鬼にゃんま",
+      "image": "https://battlecats-db.imgs-server.com/u649-1.png",
+      "search": "649 恋番長・鬼にゃんま"
+    },
+    {
+      "id": "650",
+      "name": "服部半蔵",
+      "image": "https://battlecats-db.imgs-server.com/u650-1.png",
+      "search": "650 服部半蔵"
+    },
+    {
+      "id": "656",
+      "name": "氷の精霊フリズ",
+      "image": "https://battlecats-db.imgs-server.com/u656-1.png",
+      "search": "656 氷の精霊フリズ"
+    },
+    {
+      "id": "658",
+      "name": "悲嘆の踊り子イズ",
+      "image": "https://battlecats-db.imgs-server.com/u658-1.png",
+      "search": "658 悲嘆の踊り子イズ"
+    },
+    {
+      "id": "661",
+      "name": "海龍ダライアサン",
+      "image": "https://battlecats-db.imgs-server.com/u661-1.png",
+      "search": "661 海龍ダライアサン"
+    },
+    {
+      "id": "662",
+      "name": "祝福神クロノス",
+      "image": "https://battlecats-db.imgs-server.com/u662-1.png",
+      "search": "662 祝福神クロノス"
+    },
+    {
+      "id": "667",
+      "name": "ナイトビーチリリン",
+      "image": "https://battlecats-db.imgs-server.com/u667-1.png",
+      "search": "667 ナイトビーチリリン"
+    },
+    {
+      "id": "669",
+      "name": "ネコ天狗",
+      "image": "https://battlecats-db.imgs-server.com/u669-1.png",
+      "search": "669 ネコ天狗"
+    },
+    {
+      "id": "675",
+      "name": "周遊芸団カルーセルズ",
+      "image": "https://battlecats-db.imgs-server.com/u675-1.png",
+      "search": "675 周遊芸団カルーセルズ"
+    },
+    {
+      "id": "683",
+      "name": "女神ベガ",
+      "image": "https://battlecats-db.imgs-server.com/u683-1.png",
+      "search": "683 女神ベガ"
+    },
+    {
+      "id": "684",
+      "name": "伯爵・真田幸村",
+      "image": "https://battlecats-db.imgs-server.com/u684-1.png",
+      "search": "684 伯爵・真田幸村"
+    },
+    {
+      "id": "687",
+      "name": "光の女神シリウス",
+      "image": "https://battlecats-db.imgs-server.com/u687-1.png",
+      "search": "687 光の女神シリウス"
+    },
+    {
+      "id": "688",
+      "name": "トナカイ娘テルン",
+      "image": "https://battlecats-db.imgs-server.com/u688-1.png",
+      "search": "688 トナカイ娘テルン"
+    },
+    {
+      "id": "691",
+      "name": "運命の子フォノ",
+      "image": "https://battlecats-db.imgs-server.com/u691-1.png",
+      "search": "691 運命の子フォノ"
+    },
+    {
+      "id": "693",
+      "name": "いっすん法師",
+      "image": "https://battlecats-db.imgs-server.com/u693-1.png",
+      "search": "693 いっすん法師"
+    },
+    {
+      "id": "694",
+      "name": "白執事探偵ヴィグラー",
+      "image": "https://battlecats-db.imgs-server.com/u694-1.png",
+      "search": "694 白執事探偵ヴィグラー"
+    },
+    {
+      "id": "699",
+      "name": "サンダージャック",
+      "image": "https://battlecats-db.imgs-server.com/u699-1.png",
+      "search": "699 サンダージャック"
+    },
+    {
+      "id": "700",
+      "name": "決闘少年ラビットサトル",
+      "image": "https://battlecats-db.imgs-server.com/u700-1.png",
+      "search": "700 決闘少年ラビットサトル"
+    },
+    {
+      "id": "706",
+      "name": "非命の王フォノウ",
+      "image": "https://battlecats-db.imgs-server.com/u706-1.png",
+      "search": "706 非命の王フォノウ"
+    },
+    {
+      "id": "712",
+      "name": "バララガの誓い",
+      "image": "https://battlecats-db.imgs-server.com/u712-1.png",
+      "search": "712 バララガの誓い"
+    },
+    {
+      "id": "713",
+      "name": "カオルガ",
+      "image": "https://battlecats-db.imgs-server.com/u713-1.png",
+      "search": "713 カオルガ"
+    },
+    {
+      "id": "715",
+      "name": "波打ち際の冒険家カンナ",
+      "image": "https://battlecats-db.imgs-server.com/u715-1.png",
+      "search": "715 波打ち際の冒険家カンナ"
+    },
+    {
+      "id": "716",
+      "name": "建築兵団スフィンクス",
+      "image": "https://battlecats-db.imgs-server.com/u716-1.png",
+      "search": "716 建築兵団スフィンクス"
+    },
+    {
+      "id": "720",
+      "name": "鉄の精霊カッチン",
+      "image": "https://battlecats-db.imgs-server.com/u720-1.png",
+      "search": "720 鉄の精霊カッチン"
+    },
+    {
+      "id": "724",
+      "name": "光翼神イシス",
+      "image": "https://battlecats-db.imgs-server.com/u724-1.png",
+      "search": "724 光翼神イシス"
+    },
+    {
+      "id": "726",
+      "name": "忍者娘トモエ",
+      "image": "https://battlecats-db.imgs-server.com/u726-1.png",
+      "search": "726 忍者娘トモエ"
+    },
+    {
+      "id": "734",
+      "name": "鉄籠のペガサ",
+      "image": "https://battlecats-db.imgs-server.com/u734-1.png",
+      "search": "734 鉄籠のペガサ"
+    },
+    {
+      "id": "737",
+      "name": "ネコアイスホワイトスター",
+      "image": "https://battlecats-db.imgs-server.com/u737-1.png",
+      "search": "737 ネコアイスホワイトスター"
+    },
+    {
+      "id": "738",
+      "name": "スプリングカリファ",
+      "image": "https://battlecats-db.imgs-server.com/u738-1.png",
+      "search": "738 スプリングカリファ"
+    },
+    {
+      "id": "755",
+      "name": "明智光秀",
+      "image": "https://battlecats-db.imgs-server.com/u755-1.png",
+      "search": "755 明智光秀"
+    },
+    {
+      "id": "757",
+      "name": "ネコケーキマシン挙式",
+      "image": "https://battlecats-db.imgs-server.com/u757-1.png",
+      "search": "757 ネコケーキマシン挙式"
+    },
+    {
+      "id": "759",
+      "name": "謎の傭兵トリクシー",
+      "image": "https://battlecats-db.imgs-server.com/u759-1.png",
+      "search": "759 謎の傭兵トリクシー"
+    },
+    {
+      "id": "760",
+      "name": "サマーフェスサンディア",
+      "image": "https://battlecats-db.imgs-server.com/u760-1.png",
+      "search": "760 サマーフェスサンディア"
+    },
+    {
+      "id": "761",
+      "name": "砲龍ガンドロス",
+      "image": "https://battlecats-db.imgs-server.com/u761-1.png",
+      "search": "761 砲龍ガンドロス"
+    },
+    {
+      "id": "764",
+      "name": "ネコダイナザウルス",
+      "image": "https://battlecats-db.imgs-server.com/u764-1.png",
+      "search": "764 ネコダイナザウルス"
+    },
+    {
+      "id": "770",
+      "name": "花咲かじいさん",
+      "image": "https://battlecats-db.imgs-server.com/u770-1.png",
+      "search": "770 花咲かじいさん"
+    },
+    {
+      "id": "773",
+      "name": "パンプキンソドム",
+      "image": "https://battlecats-db.imgs-server.com/u773-1.png",
+      "search": "773 パンプキンソドム"
+    },
+    {
+      "id": "775",
+      "name": "特命機動アクセル",
+      "image": "https://battlecats-db.imgs-server.com/u775-1.png",
+      "search": "775 特命機動アクセル"
+    },
+    {
+      "id": "778",
+      "name": "冬将軍・成田甲斐",
+      "image": "https://battlecats-db.imgs-server.com/u778-1.png",
+      "search": "778 冬将軍・成田甲斐"
+    },
+    {
+      "id": "780",
+      "name": "幼天女ルーナ",
+      "image": "https://battlecats-db.imgs-server.com/u780-1.png",
+      "search": "780 幼天女ルーナ"
+    },
+    {
+      "id": "782",
+      "name": "マモルガ",
+      "image": "https://battlecats-db.imgs-server.com/u782-1.png",
+      "search": "782 マモルガ"
+    },
+    {
+      "id": "784",
+      "name": "こねこ",
+      "image": "https://battlecats-db.imgs-server.com/u784-1.png",
+      "search": "784 こねこ"
+    },
+    {
+      "id": "787",
+      "name": "マジシャンキャットマン",
+      "image": "https://battlecats-db.imgs-server.com/u787-1.png",
+      "search": "787 マジシャンキャットマン"
+    },
+    {
+      "id": "788",
+      "name": "冥護の天女ルナーシャ",
+      "image": "https://battlecats-db.imgs-server.com/u788-1.png",
+      "search": "788 冥護の天女ルナーシャ"
+    },
+    {
+      "id": "800",
+      "name": "曲射砲台ランチャーズ",
+      "image": "https://battlecats-db.imgs-server.com/u800-1.png",
+      "search": "800 曲射砲台ランチャーズ"
+    },
+    {
+      "id": "811",
+      "name": "エージェント・スタール",
+      "image": "https://battlecats-db.imgs-server.com/u811-1.png",
+      "search": "811 エージェント・スタール"
+    },
+    {
+      "id": "812",
+      "name": "韋駄天スカンダ",
+      "image": "https://battlecats-db.imgs-server.com/u812-1.png",
+      "search": "812 韋駄天スカンダ"
+    },
+    {
+      "id": "818",
+      "name": "樹の精霊コモリ",
+      "image": "https://battlecats-db.imgs-server.com/u818-1.png",
+      "search": "818 樹の精霊コモリ"
+    },
+    {
+      "id": "821",
+      "name": "シーサイドペガサ",
+      "image": "https://battlecats-db.imgs-server.com/u821-1.png",
+      "search": "821 シーサイドペガサ"
+    },
+    {
+      "id": "825",
+      "name": "魔導師シドミ",
+      "image": "https://battlecats-db.imgs-server.com/u825-1.png",
+      "search": "825 魔導師シドミ"
+    },
+    {
+      "id": "831",
+      "name": "獅子番長ラクレス",
+      "image": "https://battlecats-db.imgs-server.com/u831-1.png",
+      "search": "831 獅子番長ラクレス"
+    },
+    {
+      "id": "838",
+      "name": "幼騎士ルーノ",
+      "image": "https://battlecats-db.imgs-server.com/u838-1.png",
+      "search": "838 幼騎士ルーノ"
+    },
+    {
+      "id": "851",
+      "name": "風魔小太郎",
+      "image": "https://battlecats-db.imgs-server.com/u851-1.png",
+      "search": "851 風魔小太郎"
+    },
+    {
+      "id": "860",
+      "name": "孤月の騎士ルーノス",
+      "image": "https://battlecats-db.imgs-server.com/u860-1.png",
+      "search": "860 孤月の騎士ルーノス"
+    },
+    {
+      "id": "862",
+      "name": "嵐竜機ヴォルネード",
+      "image": "https://battlecats-db.imgs-server.com/u862-1.png",
+      "search": "862 嵐竜機ヴォルネード"
+    },
+    {
+      "id": "863",
+      "name": "婚礼・服部半蔵",
+      "image": "https://battlecats-db.imgs-server.com/u863-1.png",
+      "search": "863 婚礼・服部半蔵"
+    },
+    {
+      "id": "870",
+      "name": "鉄腕！東雲寺あかね",
+      "image": "https://battlecats-db.imgs-server.com/u870-1.png",
+      "search": "870 鉄腕！東雲寺あかね"
+    },
+    {
+      "id": "873",
+      "name": "ジャングルハンタートモエ",
+      "image": "https://battlecats-db.imgs-server.com/u873-1.png",
+      "search": "873 ジャングルハンタートモエ"
+    },
+    {
+      "id": "874",
+      "name": "ロックこねこ",
+      "image": "https://battlecats-db.imgs-server.com/u874-1.png",
+      "search": "874 ロックこねこ"
+    }
+  ],
+  "groups": [
+    {
+      "id": "lugas",
+      "name": "伝説のネコルガ族",
+      "category": "通常シリーズ",
+      "ids": [
+        "035",
+        "169",
+        "170",
+        "171",
+        "172",
+        "241",
+        "437",
+        "547",
+        "626",
+        "713",
+        "782"
+      ]
+    },
+    {
+      "id": "dynamites",
+      "name": "超激ダイナマイツ",
+      "category": "通常シリーズ",
+      "ids": [
+        "043",
+        "044",
+        "045",
+        "058",
+        "060",
+        "144",
+        "428",
+        "520",
+        "618",
+        "669",
+        "764",
+        "870"
+      ]
+    },
+    {
+      "id": "basaras",
+      "name": "戦国武神バサラーズ",
+      "category": "通常シリーズ",
+      "ids": [
+        "072",
+        "073",
+        "074",
+        "125",
+        "126",
+        "159",
+        "339",
+        "497",
+        "619",
+        "650",
+        "755",
+        "851"
+      ]
+    },
+    {
+      "id": "galaxy",
+      "name": "電脳学園ギャラクシーギャルズ",
+      "category": "通常シリーズ",
+      "ids": [
+        "076",
+        "077",
+        "106",
+        "107",
+        "108",
+        "160",
+        "352",
+        "503",
+        "620",
+        "648",
+        "734",
+        "831"
+      ]
+    },
+    {
+      "id": "dragons",
+      "name": "超破壊大帝ドラゴンエンペラーズ",
+      "category": "通常シリーズ",
+      "ids": [
+        "084",
+        "085",
+        "086",
+        "087",
+        "088",
+        "178",
+        "397",
+        "506",
+        "621",
+        "661",
+        "761",
+        "862"
+      ]
+    },
+    {
+      "id": "souls",
+      "name": "超古代勇者ウルトラソウルズ",
+      "category": "通常シリーズ",
+      "ids": [
+        "135",
+        "136",
+        "137",
+        "138",
+        "139",
+        "204",
+        "323",
+        "526",
+        "634",
+        "693",
+        "770"
+      ]
+    },
+    {
+      "id": "darkheroes",
+      "name": "逆襲の英雄ダークヒーローズ",
+      "category": "通常シリーズ",
+      "ids": [
+        "195",
+        "196",
+        "197",
+        "213",
+        "227",
+        "262",
+        "432",
+        "534",
+        "635",
+        "699",
+        "775"
+      ]
+    },
+    {
+      "id": "zeus",
+      "name": "究極降臨ギガントゼウス",
+      "category": "通常シリーズ",
+      "ids": [
+        "258",
+        "259",
+        "260",
+        "272",
+        "273",
+        "317",
+        "440",
+        "535",
+        "643",
+        "724",
+        "812"
+      ]
+    },
+    {
+      "id": "ironwars",
+      "name": "革命軍隊アイアンウォーズ",
+      "category": "通常シリーズ",
+      "ids": [
+        "305",
+        "306",
+        "307",
+        "356",
+        "418",
+        "595",
+        "633",
+        "675",
+        "716",
+        "800"
+      ]
+    },
+    {
+      "id": "pixies",
+      "name": "大精霊エレメンタルピクシーズ",
+      "category": "通常シリーズ",
+      "ids": [
+        "360",
+        "361",
+        "362",
+        "402",
+        "570",
+        "632",
+        "656",
+        "720",
+        "818"
+      ]
+    },
+    {
+      "id": "monstergals",
+      "name": "絶命美少女ギャルズモンスターズ",
+      "category": "通常シリーズ",
+      "ids": [
+        "335",
+        "336",
+        "337",
+        "358",
+        "359",
+        "608",
+        "683",
+        "726",
+        "825"
+      ]
+    },
+    {
+      "id": "uberfest",
+      "name": "超ネコ祭",
+      "category": "祭・バスターズ",
+      "ids": [
+        "035",
+        "169",
+        "170",
+        "171",
+        "172",
+        "241",
+        "437",
+        "547",
+        "626",
+        "713",
+        "782",
+        "043",
+        "044",
+        "045",
+        "058",
+        "060",
+        "144",
+        "428",
+        "520",
+        "618",
+        "669",
+        "764",
+        "870",
+        "072",
+        "073",
+        "074",
+        "125",
+        "126",
+        "159",
+        "339",
+        "497",
+        "619",
+        "650",
+        "755",
+        "851",
+        "076",
+        "077",
+        "106",
+        "107",
+        "108",
+        "160",
+        "352",
+        "503",
+        "620",
+        "648",
+        "734",
+        "831",
+        "084",
+        "085",
+        "086",
+        "087",
+        "088",
+        "178",
+        "397",
+        "506",
+        "621",
+        "661",
+        "761",
+        "862",
+        "135",
+        "136",
+        "137",
+        "138",
+        "139",
+        "204",
+        "323",
+        "526",
+        "634",
+        "693",
+        "770",
+        "195",
+        "196",
+        "197",
+        "213",
+        "227",
+        "262",
+        "432",
+        "534",
+        "635",
+        "699",
+        "775",
+        "258",
+        "259",
+        "260",
+        "272",
+        "273",
+        "317",
+        "440",
+        "535",
+        "643",
+        "724",
+        "812",
+        "305",
+        "306",
+        "307",
+        "356",
+        "418",
+        "595",
+        "633",
+        "675",
+        "716",
+        "800",
+        "360",
+        "361",
+        "362",
+        "402",
+        "570",
+        "632",
+        "656",
+        "720",
+        "818",
+        "270",
+        "319",
+        "381",
+        "530",
+        "586",
+        "642",
+        "691",
+        "780",
+        "838"
+      ]
+    },
+    {
+      "id": "epicfest",
+      "name": "極ネコ祭",
+      "category": "祭・バスターズ",
+      "ids": [
+        "035",
+        "169",
+        "170",
+        "171",
+        "172",
+        "241",
+        "437",
+        "547",
+        "626",
+        "713",
+        "782",
+        "043",
+        "044",
+        "045",
+        "058",
+        "060",
+        "144",
+        "428",
+        "520",
+        "618",
+        "669",
+        "764",
+        "870",
+        "072",
+        "073",
+        "074",
+        "125",
+        "126",
+        "159",
+        "339",
+        "497",
+        "619",
+        "650",
+        "755",
+        "851",
+        "076",
+        "077",
+        "106",
+        "107",
+        "108",
+        "160",
+        "352",
+        "503",
+        "620",
+        "648",
+        "734",
+        "831",
+        "084",
+        "085",
+        "086",
+        "087",
+        "088",
+        "178",
+        "397",
+        "506",
+        "621",
+        "661",
+        "761",
+        "862",
+        "135",
+        "136",
+        "137",
+        "138",
+        "139",
+        "204",
+        "323",
+        "526",
+        "634",
+        "693",
+        "770",
+        "195",
+        "196",
+        "197",
+        "213",
+        "227",
+        "262",
+        "432",
+        "534",
+        "635",
+        "699",
+        "775",
+        "258",
+        "259",
+        "260",
+        "272",
+        "273",
+        "317",
+        "440",
+        "535",
+        "643",
+        "724",
+        "812",
+        "305",
+        "306",
+        "307",
+        "356",
+        "418",
+        "595",
+        "633",
+        "675",
+        "716",
+        "800",
+        "360",
+        "361",
+        "362",
+        "402",
+        "570",
+        "632",
+        "656",
+        "720",
+        "818",
+        "334",
+        "379",
+        "442",
+        "544",
+        "610",
+        "658",
+        "706",
+        "788",
+        "860"
+      ]
+    },
+    {
+      "id": "superfest",
+      "name": "超極ネコ祭",
+      "category": "祭・バスターズ",
+      "ids": [
+        "035",
+        "169",
+        "170",
+        "171",
+        "172",
+        "241",
+        "437",
+        "547",
+        "626",
+        "713",
+        "782",
+        "043",
+        "044",
+        "045",
+        "058",
+        "060",
+        "144",
+        "428",
+        "520",
+        "618",
+        "669",
+        "764",
+        "870",
+        "072",
+        "073",
+        "074",
+        "125",
+        "126",
+        "159",
+        "339",
+        "497",
+        "619",
+        "650",
+        "755",
+        "851",
+        "076",
+        "077",
+        "106",
+        "107",
+        "108",
+        "160",
+        "352",
+        "503",
+        "620",
+        "648",
+        "734",
+        "831",
+        "084",
+        "085",
+        "086",
+        "087",
+        "088",
+        "178",
+        "397",
+        "506",
+        "621",
+        "661",
+        "761",
+        "862",
+        "135",
+        "136",
+        "137",
+        "138",
+        "139",
+        "204",
+        "323",
+        "526",
+        "634",
+        "693",
+        "770",
+        "195",
+        "196",
+        "197",
+        "213",
+        "227",
+        "262",
+        "432",
+        "534",
+        "635",
+        "699",
+        "775",
+        "258",
+        "259",
+        "260",
+        "272",
+        "273",
+        "317",
+        "440",
+        "535",
+        "643",
+        "724",
+        "812",
+        "305",
+        "306",
+        "307",
+        "356",
+        "418",
+        "595",
+        "633",
+        "675",
+        "716",
+        "800",
+        "360",
+        "361",
+        "362",
+        "402",
+        "570",
+        "632",
+        "656",
+        "720",
+        "818",
+        "270",
+        "319",
+        "381",
+        "530",
+        "586",
+        "642",
+        "691",
+        "780",
+        "838",
+        "334",
+        "379",
+        "442",
+        "544",
+        "610",
+        "658",
+        "706",
+        "788",
+        "860",
+        "436",
+        "485",
+        "759",
+        "811"
+      ]
+    },
+    {
+      "id": "redbusters",
+      "name": "レッドバスターズ",
+      "category": "祭・バスターズ",
+      "ids": [
+        "284",
+        "043",
+        "044",
+        "077",
+        "106",
+        "087",
+        "088",
+        "125",
+        "137",
+        "213",
+        "306",
+        "621",
+        "534"
+      ]
+    },
+    {
+      "id": "airbusters",
+      "name": "エアバスターズ",
+      "category": "祭・バスターズ",
+      "ids": [
+        "060",
+        "076",
+        "084",
+        "085",
+        "107",
+        "108",
+        "136",
+        "144",
+        "197",
+        "287"
+      ]
+    },
+    {
+      "id": "metalbusters",
+      "name": "メタルバスターズ",
+      "category": "祭・バスターズ",
+      "ids": [
+        "058",
+        "139",
+        "171",
+        "262",
+        "317",
+        "359",
+        "398",
+        "716"
+      ]
+    },
+    {
+      "id": "wavebusters",
+      "name": "波動バスターズ",
+      "category": "祭・バスターズ",
+      "ids": [
+        "044",
+        "073",
+        "195",
+        "241",
+        "259",
+        "437",
+        "520",
+        "560"
+      ]
+    },
+    {
+      "id": "lifebusters",
+      "name": "超生命体バスターズ",
+      "category": "祭・バスターズ",
+      "ids": [
+        "734",
+        "650",
+        "656",
+        "661",
+        "669",
+        "675",
+        "683",
+        "687"
+      ]
+    },
+    {
+      "id": "bustersfestival",
+      "name": "バスターズ祭",
+      "category": "祭・バスターズ",
+      "ids": [
+        "043",
+        "044",
+        "058",
+        "060",
+        "073",
+        "076",
+        "077",
+        "084",
+        "085",
+        "087",
+        "088",
+        "106",
+        "107",
+        "108",
+        "125",
+        "136",
+        "139",
+        "137",
+        "144",
+        "171",
+        "195",
+        "197",
+        "213",
+        "241",
+        "259",
+        "262",
+        "284",
+        "287",
+        "306",
+        "317",
+        "398",
+        "437",
+        "520",
+        "534",
+        "560",
+        "621",
+        "734",
+        "650",
+        "656",
+        "661",
+        "669",
+        "675",
+        "683",
+        "687",
+        "716"
+      ]
+    },
+    {
+      "id": "halloween",
+      "name": "ハロウィンガチャ",
+      "category": "季節ガチャ",
+      "ids": [
+        "230",
+        "231",
+        "303",
+        "571",
+        "684",
+        "773"
+      ]
+    },
+    {
+      "id": "christmas",
+      "name": "クリスマスギャルズ",
+      "category": "季節ガチャ",
+      "ids": [
+        "242",
+        "243",
+        "244",
+        "311",
+        "527",
+        "585",
+        "688",
+        "778"
+      ]
+    },
+    {
+      "id": "summer_sun",
+      "name": "サマーガールズ：サンシャイン",
+      "category": "季節ガチャ",
+      "ids": [
+        "276",
+        "355",
+        "439",
+        "564",
+        "667",
+        "821"
+      ]
+    },
+    {
+      "id": "summer_blue",
+      "name": "サマーガールズ：ブルーオーシャン",
+      "category": "季節ガチャ",
+      "ids": [
+        "275",
+        "495",
+        "565",
+        "615",
+        "715",
+        "760",
+        "873"
+      ]
+    },
+    {
+      "id": "easter",
+      "name": "イースターカーニバル",
+      "category": "季節ガチャ",
+      "ids": [
+        "331",
+        "332",
+        "596",
+        "700",
+        "738"
+      ]
+    },
+    {
+      "id": "valentine",
+      "name": "バレンタインギャルズ",
+      "category": "季節ガチャ",
+      "ids": [
+        "159",
+        "213",
+        "358",
+        "588",
+        "589",
+        "620",
+        "645"
+      ]
+    },
+    {
+      "id": "whiteday",
+      "name": "ホワイトデーガチャ",
+      "category": "季節ガチャ",
+      "ids": [
+        "317",
+        "650",
+        "649",
+        "693",
+        "694",
+        "737",
+        "787"
+      ]
+    },
+    {
+      "id": "junebride",
+      "name": "ジューンブライドガチャ",
+      "category": "季節ガチャ",
+      "ids": [
+        "073",
+        "359",
+        "662",
+        "661",
+        "712",
+        "757",
+        "863"
+      ]
+    }
+  ],
+  "categories": [
+    "通常シリーズ",
+    "祭・バスターズ",
+    "季節ガチャ"
+  ]
+};
